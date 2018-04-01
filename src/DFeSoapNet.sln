@@ -12,6 +12,7 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Shared.DFeSoapNet\Shared.DFeSoapNet.projitems*{33254e24-6aac-4ac5-a790-6446a1cbbbcd}*SharedItemsImports = 13
+		Shared.DFeSoapNet\Shared.DFeSoapNet.projitems*{ead8f881-c42d-40ac-bdb0-41ccacd2ac06}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
